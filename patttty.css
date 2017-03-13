@@ -1,0 +1,438 @@
+@charset "UTF-8";
+.navbar-default {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
+.navbarh {
+	background-color: rgba(255,255,255,1.00);	
+	
+}
+.profpicme {
+	position: absolute;
+	left: -63px;
+	top: 192px;
+}
+.container-bwood {
+	margin-top: -20px;
+	margin-right: 5px;
+	margin-bottom: 46px;
+	margin-left: 5px;
+	background-image: url(images/white-wood-background.jpg);
+	opacity: 1;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	background-size: 1906px auto;
+	visibility: visible;
+	background-attachment: scroll;
+	background-origin: padding-box;
+	background-repeat: repeat;
+	background-clip: padding-box;
+}
+.meforest {
+}
+
+
+
+.white-bk {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 301px;
+	margin-right: 62px;
+	margin-left: 62px;
+	margin-top: 357px;
+	margin-bottom: 118px;
+}
+.aboutme {
+	color: rgba(0,0,0,1.00);
+	margin-top: 0px;
+	margin-right: 171px;
+	margin-bottom: 171px;
+	margin-left: 171px;
+	font-size: 21px;
+}
+.mepic {
+}
+.thisone  {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 109px;
+}
+.kgimg {
+	margin-top: 28px;
+}
+
+
+
+.white-bk {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 382px;
+	margin-right: 62px;
+	margin-left: 62px;
+	margin-top: 357px;
+	margin-bottom: 168px;
+}
+.cmonnn {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 382px;
+	margin-right: 62px;
+	margin-left: 62px;
+	margin-top: 266px;
+}
+.basketballgot {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 86px;
+	margin-top: 64px;
+}
+
+
+.complogo {
+	margin-top: 72px;
+	margin-right: 70px;
+	margin-bottom: 2px;
+	margin-left: 70px;
+}
+.programslist {
+	margin-top: 104px;
+}
+.penlogo {
+	margin-bottom: 2px;
+	margin-top: 81px;
+}
+.designtext {
+	margin-top: 104px;
+	margin-right: 45px;
+	margin-left: 45px;
+}
+.printdtext {
+	margin-top: 104px;
+	margin-right: 45px;
+	margin-left: 45px;
+}
+.languagestext {
+	margin-top: 104px;
+}
+.whitebkk {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 8px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 8px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 459px;
+	margin-right: 15px;
+	margin-left: 15px;	
+}
+.programstext {
+	margin-right: 45px;
+	margin-left: 45px;
+}
+.codelogo {
+	margin-top: 77px;
+	margin-bottom: 2px;
+}
+.sheetofpaper {
+	color: rgba(0,0,0,1.00);
+	background-color: rgba(255,255,255,1.00);
+	padding-bottom: 441px;
+	-webkit-box-shadow: 0 30px 27px 5px rgba(0,0,0,0.33);
+	box-shadow: 0 30px 27px 5px rgba(0,0,0,0.33);
+	position: absolute;
+	top: 347px;
+	left: 113px;
+	right: 180px;
+}
+.clogo {
+	margin-top: 56px;
+	margin-right: 56px;
+	margin-bottom: 56px;
+	margin-left: 56px;
+}
+.notetext {
+	position: absolute;
+	top: 150px;
+	left: 245px;
+	right: 245px;
+}
+.bio {
+	position: absolute;
+	top: 236px;
+}
+.pthor {
+	left: 40px;
+	position: absolute;
+}
+.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 22pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	margin-left: 62px;
+}
+.nav li a:link {
+	font-family: Ubuntu;
+}
+.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 38pt;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 153px;
+}
+.bio {
+	text-align: justify;
+	margin-left: 343px;
+	margin-top: 72px;
+	margin-right: 66px;
+}
+.skills {
+	font-size: 15pt;
+	margin-bottom: 138px;
+	font-family: Ubuntu;
+	margin-top: 161px;
+	border-color: rgba(0,0,0,1.00);
+	border-style: solid none;
+}
+.nailright {
+	position: absolute;
+	margin-left: 466px;
+}
+.nailleft {
+	position: absolute;
+}
+.jbtvlogo {
+	margin-bottom: 155px;
+}
+.portfoliotext {
+	font-size: 15pt;
+	margin-bottom: 138px;
+	font-family: Ubuntu;
+	margin-top: 161px;
+	border-color: rgba(0,0,0,1.00);
+	border-style: solid none;
+}
+.containerofjbtvj {
+	margin-top: 204px;
+}
+
+.mynameis {
+	position: absolute;
+	font-size: 25pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+	left: 35pt;
+	right: 35px;
+}
+
+.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 33pt;
+	font-family: 'Montserrat', sans-serif;
+}
+.copyrightptl {
+	margin-left: 84px;
+	margin-top: 27px;
+}
+.img-responsive.center-block {
+	border-color: rgba(0,0,0,1.00);
+	border-width: 98px;
+}
+.mmposter {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.ffposter {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.mmejposter {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.jbtvsticker {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.prflyer {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.danlflyer {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.kgflyer {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.mambyoflyer {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.leonflyer {
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 21px;
+}
+.myresumepic {
+	margin-top: 115px;
+	-webkit-box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	box-shadow: 0 4px 10px 1px rgba(0,0,0,0.53);
+	margin-bottom: 103px;
+	margin-top: 56px;
+}
+.resumedownloadbutton {
+	margin-top: -14px;
+	margin-bottom: 211px;
+}
+.container a .btn.btn-default.center-block.resumedownloadbutton {
+}
+body {
+}
+.copyrightptlr {
+	font-size: 9px;
+}
+
+/*xs mobile view*/
+@media (max-width: 420px){
+	
+	.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 15pt;
+	font-family: Ubuntu;
+	font-weight: lighter;
+		
+		
+
+/*mobile view*/
+@media (max-width: 767px)
+
+{
+	
+	.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 20pt;
+	font-family: Ubuntu;h
+	font-weight: lighter;
+		
+}
+a:link {
+}
+	.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 26pt;
+	font-family: 'Montserrat', sans-serif;
+		
+}
+	
+	.thisone  {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 382px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 250px;
+}
+	
+	.white-bk {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 382px;
+	margin-right: 62px;
+	margin-left: 62px;
+	margin-top: 357px;
+	
+	
+}
+	.basketballgot 
+	{font-family: 'Montserrat', sans-serif;
+	font-size: 22px;}
+
+}
+
+/*tablet view*/
+@media (min-width: 768px) and (max-width: 991px){
+	
+	.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 25pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+	.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 35pt;
+	font-family: 'Montserrat', sans-serif;
+}
+	.basketballgot 
+	{font-family: 'Montserrat', sans-serif;
+	font-size: 52px;}
+
+}
+
+/*Desktop view*/
+@media (min-width: 992px) and (max-width: 1199px){
+	
+	.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 25pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+	.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 40pt;
+	font-family: 'Montserrat', sans-serif;
+}
+	
+}
+
+/*xtra large desktop view*/
+@media (min-width: 1200px){
+	
+	.mynameis {
+	position: absolute;
+	top: 140px;
+	font-size: 30pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+	.iamag {
+	position: absolute;
+	top: 207px;
+	font-size: 45pt;
+	font-family: 'Montserrat', sans-serif;
+}
+.nailr {
+}
