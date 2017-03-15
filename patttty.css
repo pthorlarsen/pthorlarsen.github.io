@@ -44,6 +44,12 @@
 	margin-top: 357px;
 	margin-bottom: 118px;
 }
+.headingintro {
+	margin-right: 62px;
+	margin-left: 62px;
+	margin-bottom: -148px;
+	margin-top: 96px;
+}
 .aboutme {
 	color: rgba(0,0,0,1.00);
 	margin-top: 0px;
@@ -109,11 +115,13 @@
 	margin-top: 104px;
 	margin-right: 45px;
 	margin-left: 45px;
+	font-size: 14px;
 }
 .printdtext {
 	margin-top: 104px;
 	margin-right: 45px;
 	margin-left: 45px;
+	font-size: 14px;
 }
 .languagestext {
 	margin-top: 104px;
@@ -165,23 +173,15 @@
 	left: 40px;
 	position: absolute;
 }
-.mynameis {
-	position: absolute;
-	top: 140px;
-	font-size: 22pt;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: lighter;
-	margin-left: 62px;
-}
+
 .nav li a:link {
 	font-family: Ubuntu;
+
 }
-.iamag {
-	position: absolute;
-	top: 207px;
-	font-size: 38pt;
-	font-family: 'Montserrat', sans-serif;
-	margin-left: 153px;
+.patric {
+	font-size: 29pt;
+}
+.container-fluid.headingintro .text-center {
 }
 .bio {
 	text-align: justify;
@@ -219,24 +219,12 @@
 	margin-top: 204px;
 }
 
-.mynameis {
-	position: absolute;
-	font-size: 25pt;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: lighter;
-	left: 35pt;
-	right: 35px;
-}
 
-.iamag {
-	position: absolute;
-	top: 207px;
-	font-size: 33pt;
-	font-family: 'Montserrat', sans-serif;
-}
+
 .copyrightptl {
 	margin-left: 84px;
 	margin-top: 27px;
+	font-size: 6pt;
 }
 .img-responsive.center-block {
 	border-color: rgba(0,0,0,1.00);
@@ -314,40 +302,56 @@ body {
 .copyrightptlr {
 	font-size: 9px;
 }
+.digitaldes {
+	font-size: 47pt;
+}
+.programf {
+	font-size: 14px;
+	margin-top: 104px;
+	margin-left: 45px;
+	margin-right: 45px;
+}
 
-/*xs mobile view*/
-@media (max-width: 420px){
-	
-	.mynameis {
-	position: absolute;
-	top: 140px;
-	font-size: 15pt;
-	font-family: Ubuntu;
-	font-weight: lighter;
+
 		
 		
 
 /*mobile view*/
-@media (max-width: 767px)
+@media (min-width: 100px) and (max-width: 499px)
 
 {
 	
-	.mynameis {
-	position: absolute;
-	top: 140px;
-	font-size: 20pt;
-	font-family: Ubuntu;h
-	font-weight: lighter;
-		
+.patric {
+	font-size: 15pt;
+	margin-top: 104px;
+	
+}	
+	
+	
+	.designtext {
+	margin-top: 104px;
+	margin-right: 45px;
+	margin-left: 45px;
+	font-size: 14px;
 }
-a:link {
+.printdtext {
+	margin-top: 104px;
+	margin-right: 45px;
+	margin-left: 45px;
+	font-size: 14px;
 }
-	.iamag {
-	position: absolute;
-	top: 207px;
-	font-size: 26pt;
-	font-family: 'Montserrat', sans-serif;
-		
+
+
+	.digitaldes{
+	font-size: 20pt;	
+}
+	.skills {
+	font-size: 15pt;
+	margin-bottom: 138px;
+	font-family: Ubuntu;
+	margin-top: 161px;
+	border-color: rgba(0,0,0,1.00);
+	border-style: solid none;
 }
 	
 	.thisone  {
@@ -367,30 +371,30 @@ a:link {
 	padding-bottom: 382px;
 	margin-right: 62px;
 	margin-left: 62px;
-	margin-top: 357px;
+	margin-top: 230px;
 	
 	
 }
 	.basketballgot 
 	{font-family: 'Montserrat', sans-serif;
-	font-size: 22px;}
+	font-size: 15px;}
 
 }
 
 /*tablet view*/
-@media (min-width: 768px) and (max-width: 991px){
+@media (min-width: 500px) and (max-width: 899px){
 	
-	.mynameis {
+.patric {
 	position: absolute;
 	top: 140px;
-	font-size: 25pt;
+	font-size: 15pt;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 }
-	.iamag {
+	.digitaldes{
 	position: absolute;
 	top: 207px;
-	font-size: 35pt;
+	font-size: 25pt;
 	font-family: 'Montserrat', sans-serif;
 }
 	.basketballgot 
@@ -400,16 +404,16 @@ a:link {
 }
 
 /*Desktop view*/
-@media (min-width: 992px) and (max-width: 1199px){
+@media (min-width: 900px) and (max-width: 1199px){
 	
-	.mynameis {
+	.patric {
 	position: absolute;
 	top: 140px;
 	font-size: 25pt;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 }
-	.iamag {
+	.digitaldes{
 	position: absolute;
 	top: 207px;
 	font-size: 40pt;
@@ -421,20 +425,26 @@ a:link {
 /*xtra large desktop view*/
 @media (min-width: 1200px){
 	
-	.mynameis {
+	.patric {
 	position: absolute;
 	top: 140px;
 	font-size: 30pt;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 }
-	.iamag {
+	.digitaldes {
 	position: absolute;
 	top: 207px;
 	font-size: 45pt;
 	font-family: 'Montserrat', sans-serif;
 }
-.nailr {
-}
+
 .myresumepic {
+}
+
+@media (max-width: 375px){
+}
+body {
+}
+.mobiletext {
 }
