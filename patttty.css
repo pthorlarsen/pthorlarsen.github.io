@@ -45,8 +45,6 @@
 	margin-bottom: 118px;
 }
 .headingintro {
-	margin-right: 62px;
-	margin-left: 62px;
 	margin-bottom: -148px;
 	margin-top: 96px;
 }
@@ -57,6 +55,7 @@
 	margin-bottom: 171px;
 	margin-left: 171px;
 	font-size: 21px;
+	font-family: Ubuntu, Verdana;
 }
 .mepic {
 }
@@ -179,7 +178,11 @@
 
 }
 .patric {
-	font-size: 29pt;
+	font-size: 18px;
+	font-family: Ubuntu, Verdana;
+}
+.navres {
+	font-family: Ubuntu, Verdana;
 }
 .container-fluid.headingintro .text-center {
 }
@@ -192,7 +195,7 @@
 .skills {
 	font-size: 15pt;
 	margin-bottom: 138px;
-	font-family: Ubuntu;
+	font-family: Ubuntu, Verdana;
 	margin-top: 161px;
 	border-color: rgba(0,0,0,1.00);
 	border-style: solid none;
@@ -311,6 +314,7 @@ body {
 	margin-top: 104px;
 	margin-left: 45px;
 	margin-right: 45px;
+	font-family: Ubuntu, Verdana;
 }
 
 
@@ -359,19 +363,28 @@ body {
 	background-color: rgba(255,255,255,1.00);
 	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
 	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
-	padding-bottom: 382px;
-	margin-right: 10px;
-	margin-left: 10px;
+	padding-bottom: 32px;
+	margin-right: 2px;
+	margin-left: 2px;
 	margin-top: 250px;
+}
+	.cmonnn {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
+	padding-bottom: 32px;
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-top: 266px;
 }
 	
 	.white-bk {
 	background-color: rgba(255,255,255,1.00);
 	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
 	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.30);
-	padding-bottom: 382px;
-	margin-right: 62px;
-	margin-left: 62px;
+	padding-bottom: 90px;
+	margin-right: 2px;
+	margin-left: 2px;
 	margin-top: 230px;
 	
 	
