@@ -333,6 +333,15 @@ body {
 
 	
 }	
+	.aboutme {
+	color: rgba(0,0,0,1.00);
+	margin-top: 0px;
+	margin-bottom: 171px;
+	font-size: 14px;
+	font-family: Ubuntu, Verdana;
+	margin-left: 10px;
+	margin-right: 10px;
+}
 	
 	
 	.designtext {
