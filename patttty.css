@@ -51,11 +51,11 @@
 .aboutme {
 	color: rgba(0,0,0,1.00);
 	margin-top: 0px;
-	margin-right: 171px;
 	margin-bottom: 171px;
-	margin-left: 171px;
 	font-size: 21px;
 	font-family: Ubuntu, Verdana;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 .mepic {
 }
@@ -213,7 +213,7 @@
 .portfoliotext {
 	font-size: 15pt;
 	margin-bottom: 138px;
-	font-family: Ubuntu;
+	font-family: Ubuntu, Verdana;
 	margin-top: 161px;
 	border-color: rgba(0,0,0,1.00);
 	border-style: solid none;
@@ -306,7 +306,7 @@ body {
 	font-size: 9px;
 }
 .digitaldes {
-	font-size: 47pt;
+	font-size: 19pt;
 	font-family: Ubuntu, Verdana;
 }
 .programf {
@@ -327,8 +327,10 @@ body {
 {
 	
 .patric {
-	font-size: 10pt;
-	margin-top: 104px;
+	font-size: 13pt;
+	margin-top: 14px;
+	
+
 	
 }	
 	
@@ -348,7 +350,8 @@ body {
 
 
 	.digitaldes{
-	font-size: 14pt;	
+	font-size: 19pt;
+		
 }
 	.skills {
 	font-size: 15pt;
