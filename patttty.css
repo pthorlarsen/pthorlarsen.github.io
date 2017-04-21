@@ -95,14 +95,6 @@
 	font-size: 86px;
 	margin-top: 64px;
 }
-
-
-.complogo {
-	margin-top: 72px;
-	margin-right: 70px;
-	margin-bottom: 2px;
-	margin-left: 70px;
-}
 .programslist {
 	margin-top: 104px;
 }
@@ -316,14 +308,53 @@ body {
 	margin-right: 45px;
 	font-family: Ubuntu, Verdana;
 }
+.dencontainer {
+	background-color: rgba(255,255,255,1.00);
+	-webkit-box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.24);
+	box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.24);
+	margin-top: 42px;
+	padding-top: 49px;
+	padding-bottom: 256px;
+	background-size: 933px 683px;
+	background-repeat: no-repeat;
+}
+.vbutton {
+	font-family: Ubuntu, Verdana;
+	letter-spacing: 2px;
+	margin-top: 176px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.revamp {
+	font-family: Ubuntu, Verdana;
+	font-size: 40px;
+	margin-top: 39px;
+}
+.container-fluid.dencontainer {
+}
+
+
+
+
+
+.uxprocess {
+	position: absolute;
+	font-family: Ubuntu, Verdana;
+	font-size: 20px;
+	margin-top: 23px;
+	text-align: center;
+	margin-bottom: 175px;
+}
+.threenail {
+	padding-top: 0px;
+}
 
 
 		
 		
 
 /*mobile view*/
-@media (min-width: 100px) and (max-width: 499px)
-
+@media (max-width: 767px)
 {
 	
 .patric {
@@ -404,33 +435,81 @@ body {
 	.basketballgot 
 	{font-family: 'Montserrat', sans-serif;
 	font-size: 15px;}
+	.vbutton {
+	font-family: Ubuntu, Verdana;
+	letter-spacing: 2px;
+	margin-top: 86px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.flatimagecp {
+	margin-top: 197px;
+}
+	.uxprocess.text-center {
+	font-size: 12px;
+		margin-left: 20px;
+		margin-right: 55px;
+	text-align: center;
+	
+}
+	
+	.revamp {
+	font-family: Ubuntu, Verdana;
+	font-size: 19px;
+	margin-top: 39px;
+}
+
+
+
 
 }
 
 /*tablet view*/
-@media (min-width: 500px) and (max-width: 899px){
+@media (min-width: 768px) and (max-width: 991px){
 	
 .patric {
 	position: absolute;
 	top: 140px;
-	font-size: 15pt;
+	font-size: 25pt;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 }
 	.digitaldes{
 	position: absolute;
 	top: 207px;
-	font-size: 25pt;
+	font-size: 45pt;
 	font-family: 'Montserrat', sans-serif;
 }
 	.basketballgot 
 	{font-family: 'Montserrat', sans-serif;
 	font-size: 52px;}
+	
+	.vbutton {
+	font-family: Ubuntu, Verdana;
+	letter-spacing: 2px;
+	margin-top: 86px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.flatimagecp {
+	margin-top: 297px;
+}
+	.uxprocess.text-center {
+	font-size: 20 px;
+		margin-left: 55px;
+		margin-right: 55px;
+	text-align: center;
+	padding-left: 0px;
+}
+	
+
+
 
 }
 
 /*Desktop view*/
-@media (min-width: 900px) and (max-width: 1199px){
+@media (min-width: 992px) and (max-width: 1199px)
+{
 	
 	.patric {
 	position: absolute;
@@ -445,6 +524,90 @@ body {
 	font-size: 40pt;
 	font-family: 'Montserrat', sans-serif;
 }
+
+	
+
+
+.slide-container {
+	position: relative;
+	height: 400px;
+	width: 800px;
+	overflow: hidden;
+	margin-top:267px;
+}
+.sliding-image {
+	position: absolute;
+	bottom: -1473px;
+	-webkit-transition: bottom 2s; /* half a second to transition, might want to up that to 1s-2s */
+	transition: bottom 12s;
+	width: 800px;
+	margin-left: 20;
+	margin-right: 20;
+	margin-top: 545px;
+}
+.sliding-image:hover {
+	bottom: -100px;
+}
+
+.iphoneslide-container {
+	position: relative;
+	height: 291px;
+	width: 162px;
+	overflow: hidden;
+	margin-top: -126px;
+	margin-left: 743px;
+	
+}
+.iphonesliding-image {
+	position: absolute;
+	bottom: -1354px;
+	-webkit-transition: bottom 2s; /* half a second to transition, might want to up that to 1s-2s */
+	transition: bottom 12s;
+	width: 800px;
+	z-index: 3;
+}
+.iphonesliding-image:hover {
+	bottom: 0px;
+	
+}
+.device {
+	position: absolute;
+	margin-left: 729px;
+	margin-top: 679px;
+	z-index: 2;
+}
+	
+	.comp {
+	position: absolute;
+	margin-top: 410px;
+	z-index: 0;
+}
+
+
+	.uxprocess {
+	position: absolute;
+	font-family: Ubuntu, Verdana;
+	font-size: 20px;
+	margin-top: 3px;
+	text-align: center;
+	margin-bottom: 75px;
+		margin-left: 55px;
+		margin-right: 55px;
+}
+.viewsiteb {
+	margin-bottom: 0px;
+	margin-top: 1392px;
+	margin-left: 467px;
+}
+	.revamp {
+	font-family: Ubuntu, Verdana;
+	font-size: 40px;
+	margin-top: 39px;
+}
+
+	
+	
+
 	
 }
 
@@ -464,13 +627,77 @@ body {
 	font-size: 45pt;
 	font-family: 'Montserrat', sans-serif;
 }
+	
 
-.myresumepic {
+
+.slide-container {
+	position: relative;
+	height: 400px;
+	width: 800px;
+	overflow: hidden;
+	margin-top:370px;
+}
+.sliding-image {
+	position: absolute;
+	bottom: -1473px;
+	-webkit-transition: bottom 2s; /* half a second to transition, might want to up that to 1s-2s */
+	transition: bottom 12s;
+	width: 800px;
+	margin-left: 20;
+	margin-right: 20;
+	margin-top: 545px;
+}
+.sliding-image:hover {
+	bottom: -100px;
 }
 
-@media (max-width: 375px){
+.iphoneslide-container {
+	position: relative;
+	height: 290px;
+	width: 162px;
+	overflow: hidden;
+	margin-top: -126px;
+	margin-left: 943px;
 }
-body {
+.iphonesliding-image {
+	position: absolute;
+	bottom: -1357px;
+	-webkit-transition: bottom 2s; /* half a second to transition, might want to up that to 1s-2s */
+	transition: bottom 12s;
+	width: 800px;
 }
-.mobiletext {
+.iphonesliding-image:hover {
+	bottom: 0px;
+	
+}
+.comp {
+	position: absolute;
+	
+	margin-top: 510px;
+}
+.device {
+	position: absolute;
+	margin-left: 930px;
+	margin-top: 783px;
+}
+	.uxprocess {
+	position: absolute;
+	font-family: Ubuntu, Verdana;
+	font-size: 25px;
+	margin-top: 63px;
+	text-align: center;
+	padding-right: 289px;
+	padding-left: 289px;
+	margin-bottom: 175px;
+}
+	
+	.revamp {
+	font-family: Ubuntu, Verdana;
+	font-size: 40px;
+	margin-top: 39px;
+}
+
+
+
+
 }
