@@ -533,7 +533,8 @@ body {
 	height: 400px;
 	width: 800px;
 	overflow: hidden;
-	margin-top:267px;
+	margin-top:272px;
+	margin-left: -24px
 }
 .sliding-image {
 	position: absolute;
@@ -554,7 +555,7 @@ body {
 	height: 291px;
 	width: 162px;
 	overflow: hidden;
-	margin-top: -126px;
+	margin-top: -131px;
 	margin-left: 743px;
 	
 }
@@ -636,6 +637,7 @@ body {
 	width: 800px;
 	overflow: hidden;
 	margin-top:370px;
+	margin-left: -19px;
 }
 .sliding-image {
 	position: absolute;
