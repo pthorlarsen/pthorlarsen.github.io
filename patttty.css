@@ -451,7 +451,7 @@ body {
 	.vbutton {
 	font-family: Ubuntu, Verdana;
 	letter-spacing: 2px;
-	margin-top: 86px;
+	margin-top: 106px;
 	padding-left: 35px;
 	padding-right: 35px;
 }
@@ -479,6 +479,12 @@ body {
 	font-family: Ubuntu, Verdana;
 	font-size: 19px;
 	margin-top: 39px;
+}
+	
+	}
+.bgoimage {
+	margin-top: 18px;
+	
 }
 
 
