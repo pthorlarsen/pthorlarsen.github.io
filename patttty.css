@@ -350,6 +350,8 @@ body {
 }
 .jimages {
 	margin-bottom: -19px;
+	-webkit-box-shadow: 0px 0px 0px;
+	box-shadow: 0px 0px 0px;
 }
 .bgoimage {
 	margin-top: -118px;
